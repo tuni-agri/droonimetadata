@@ -1,0 +1,64 @@
+{
+    "kamerat": [
+        "dji fc6360 1600 1300 brown 1.1111"
+    ],
+    "kameran ja kuvan tietoja": [
+        {
+            "make": "DJI",
+            "model": "FC6360",
+            "sun_sensor": null,
+            "band_name": "RGB",
+            "band_index": 0,
+            "radiometric_calibration": null,
+            "iso_speed": 200
+        }
+    ],
+    "kuvien_maara": 11,
+    "kuvausalueen_keskipiste": [
+        649834.030947405,
+        6745753.513379263
+    ],
+    "kuvausaika": "2023-06-12 10:19:18",
+    "kasitellyt_ortho_kuvat": [
+        {
+            "filename": "odm_orthophoto.tif",
+            "path": "Mustiala/odm_orthophoto\\odm_orthophoto.tif"
+        }
+    ],
+    "has_gps": true,
+    "has_gcp": false,
+    "boundary": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    23.754518107867526,
+                    60.818530131336445,
+                    159.346
+                ],
+                [
+                    23.75457587498663,
+                    60.81920170989475,
+                    159.346
+                ],
+                [
+                    23.755879460306087,
+                    60.819174961595415,
+                    191.398
+                ],
+                [
+                    23.755821665933425,
+                    60.818503383770036,
+                    191.398
+                ],
+                [
+                    23.754518107867526,
+                    60.818530131336445,
+                    159.346
+                ]
+            ]
+        ]
+    },
+    "processing_start_date": "12/06/2023 at 10:17:43",
+    "areaSize": 1531.718292791515
+}
