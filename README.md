@@ -1,0 +1,2 @@
+# droonimetadata
+OpenDroneMap - metadata
